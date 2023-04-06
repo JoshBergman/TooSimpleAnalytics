@@ -6,8 +6,6 @@ const stdRoutes = require("./src/Routes/stdRoutes");
 
 app.use(helmet());
 
-console.log("Main runnnig");
-
 app.use("/std", stdRoutes);
 
 let port = process.env.PORT || 5000;
