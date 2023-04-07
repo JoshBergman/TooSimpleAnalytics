@@ -2,6 +2,10 @@
 
 #### By: Joshua Bergman
 
+_Quickly check your new views and total views with TooSimpleAnalytics Checker_
+
+> [Checker Repo](https://github.com/JoshBergman/TooSimpleAnalyticsCheck)
+
 ## What is it?
 
 TooSimpleAnalytics is meant to be paired to a mongoDB database. The function of this application is to keep a simple counter or any basic analytics for your websites.
